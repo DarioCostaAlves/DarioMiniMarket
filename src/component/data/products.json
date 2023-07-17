@@ -34,5 +34,11 @@
         "price": "4€",
         "stocked": true,
         "name": "Brocoli"
+    },
+    {
+        "category": "Vegetables",
+        "price": "6€",
+        "stocked": true,
+        "name": "Carrot"
     }
 ]
